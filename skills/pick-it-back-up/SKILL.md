@@ -1,9 +1,23 @@
 ---
 name: pick-it-back-up
+version: 1.0.3
 description: "Help a user resume interrupted work or prepare a restart checkpoint using available conversation history or notes they provide. Use when they ask where they left off, how to resume, or to pause with a handoff note."
 ---
 
 # Pick It Back Up
+
+## Purpose in plain English
+
+This skill helps you resume interrupted work from the available conversation or a saved checkpoint.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Restore enough context to continue without making the user reconstruct the whole task.
 

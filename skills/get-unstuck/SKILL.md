@@ -1,9 +1,23 @@
 ---
 name: get-unstuck
+version: 1.0.3
 description: "Help a user begin a task when they say they are stuck, overwhelmed by starting, or unsure how to begin. Use for task initiation rather than ordinary requests the assistant can directly complete."
 ---
 
 # Get Unstuck
+
+## Purpose in plain English
+
+This skill helps you find a manageable first action when a task feels difficult to start.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Help the user make useful progress on the task they actually want to do.
 

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/adhd-task-helper",
+  "packages": [
+    {
+      "name": "adhd-task-helper",
+      "root": ".",
+      "version": "1.0.3",
+      "manifests": [
+        "plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "skills": [
+        "skills/get-unstuck/SKILL.md",
+        "skills/i-have-adhd/SKILL.md",
+        "skills/pick-it-back-up/SKILL.md",
+        "skills/sort-my-brain-dump/SKILL.md"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "path": "skills/get-unstuck/SKILL.md",
+      "version": "1.0.3",
+      "sha256": "c5a0ca0bcd6e0868ff290cdc5656a13f81c6ff485a6ec083008a32e9ce168809",
+      "source": "skills/get-unstuck/SKILL.md",
+      "guide": "skills/get-unstuck/README.md"
+    },
+    {
+      "path": "skills/i-have-adhd/SKILL.md",
+      "version": "1.0.3",
+      "sha256": "8a908f1a491a4f091c1e9c73b4320e8dd7b86fc189d5c084784f9601fa855f52",
+      "source": "skills/i-have-adhd/SKILL.md",
+      "guide": "skills/i-have-adhd/README.md"
+    },
+    {
+      "path": "skills/pick-it-back-up/SKILL.md",
+      "version": "1.0.3",
+      "sha256": "2cd0bb4ea94c1d506352a3a50940b24233f0495d0e78add69ce8057009cec48e",
+      "source": "skills/pick-it-back-up/SKILL.md",
+      "guide": "skills/pick-it-back-up/README.md"
+    },
+    {
+      "path": "skills/sort-my-brain-dump/SKILL.md",
+      "version": "1.0.3",
+      "sha256": "26753676f3ee7a4f86d35d3d8fadbb531673b5c9789e932e37d235a9af29a10a",
+      "source": "skills/sort-my-brain-dump/SKILL.md",
+      "guide": "skills/sort-my-brain-dump/README.md"
+    }
+  ],
+  "copies": []
+}

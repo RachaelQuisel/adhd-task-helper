@@ -1,9 +1,23 @@
 ---
 name: sort-my-brain-dump
+version: 1.0.3
 description: "Organize a user-provided brain dump or competing tasks into a practical starting point and a recoverable list. Use when the user asks to sort their thoughts or choose what to do first."
 ---
 
 # Sort My Brain Dump
+
+## Purpose in plain English
+
+This skill helps you organize a collection of thoughts without losing the items that are being deferred.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Turn the user's supplied notes into a list they can use without losing the items they are setting aside.
 

@@ -1,9 +1,23 @@
 ---
 name: i-have-adhd
+version: 1.0.3
 description: "Make replies easier to scan and act on when the user requests ADHD-friendly communication or turns on ADHD mode."
 ---
 
 # I Have ADHD
+
+## Purpose in plain English
+
+This skill helps you adapt replies so the amount of detail and next action are easier for a person with attention difficulties to follow.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Help the reader find the useful part immediately and follow through without unnecessary reading or decisions.
 
