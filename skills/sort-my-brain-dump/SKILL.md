@@ -1,6 +1,6 @@
 ---
 name: sort-my-brain-dump
-version: 1.0.3
+version: 1.0.4
 description: "Organize a user-provided brain dump or competing tasks into a practical starting point and a recoverable list. Use when the user asks to sort their thoughts or choose what to do first."
 ---
 
