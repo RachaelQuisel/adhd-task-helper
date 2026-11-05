@@ -17,7 +17,7 @@
     "shortDescription": "Start, sort, and resume tasks"
   },
   "name": "adhd-task-helper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ADHD-friendly support for clearer replies, starting a task, sorting a brain dump, and resuming interrupted work.",
   "author": {
     "name": "Rachael Quisel"
