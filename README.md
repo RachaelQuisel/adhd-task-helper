@@ -22,6 +22,19 @@ Example requests:
 - "Help me sort this brain dump and choose what to do first."
 - "Help me pick up interrupted work using this checkpoint."
 
+## Use with Claude Code
+
+Install from this repository:
+
+```text
+claude plugin marketplace add RachaelQuisel/adhd-task-helper
+claude plugin install adhd-task-helper@adhd-task-helper
+```
+
+Then run a skill, for example `/adhd-task-helper:get-unstuck`.
+
+The Claude package passes `claude plugin validate` and installs from a local copy of this repository. The skills have not yet been tested in a Claude conversation.
+
 ## Source and verification
 
 Version 0.1.3. The repository contains the portable plugin manifest, four skills, their supporting references and UI metadata, and the Soft Index icon.
