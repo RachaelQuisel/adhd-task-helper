@@ -37,7 +37,7 @@ The Claude package passes `claude plugin validate` and installs from a local cop
 
 ## Source and verification
 
-Version 0.1.3. The repository contains the portable plugin manifest, four skills, their supporting references and UI metadata, and the Soft Index icon.
+Version 1.0.6. The repository contains the portable plugin manifest, four skills, their supporting references and UI metadata, and the Soft Index icon.
 
 Package validation and a separate-agent instruction dry run have been completed. Installed-host routing and real-user usefulness have not yet been tested. The plugin uses available conversation context; it does not provide automatic cross-chat memory or its own scheduling service.
 

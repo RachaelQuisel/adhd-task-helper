@@ -5,7 +5,7 @@
     {
       "name": "adhd-task-helper",
       "root": ".",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -22,29 +22,29 @@
   "skills": [
     {
       "path": "skills/get-unstuck/SKILL.md",
-      "version": "1.0.5",
-      "sha256": "e6a179817a56e30e618210d5b4d52c7e45248b3bdb5c4e978500af71343b3116",
+      "version": "1.0.6",
+      "sha256": "77e62a043f245bd316c4beaf8694836850b7ed55cafe21e59a39aa3799f192b2",
       "source": "skills/get-unstuck/SKILL.md",
       "guide": "skills/get-unstuck/README.md"
     },
     {
       "path": "skills/i-have-adhd/SKILL.md",
-      "version": "1.0.5",
-      "sha256": "5bd040fd499295f4193880424589a076a6b028e9f71e8eb66a119d77b4dd9b4d",
+      "version": "1.0.6",
+      "sha256": "cde6b0fa2800739544e1ee375c4bca1ae1f5d50ba483ba01bfdc3bfc2c29a87e",
       "source": "skills/i-have-adhd/SKILL.md",
       "guide": "skills/i-have-adhd/README.md"
     },
     {
       "path": "skills/pick-it-back-up/SKILL.md",
-      "version": "1.0.5",
-      "sha256": "0517c2933133441632243affcaa32f1fe7404886ab52e135462f241616b875a4",
+      "version": "1.0.6",
+      "sha256": "fd881b14648866c7911575514dc00f95bc612603c1d1afb8541d2a6f33dfb9e9",
       "source": "skills/pick-it-back-up/SKILL.md",
       "guide": "skills/pick-it-back-up/README.md"
     },
     {
       "path": "skills/sort-my-brain-dump/SKILL.md",
-      "version": "1.0.5",
-      "sha256": "a99e2c07b9567bf616d2c8638c475300f057146d108f968f85b89057bf10cbb6",
+      "version": "1.0.6",
+      "sha256": "0e401fcbb8ffc7efe90a2a67147344b26c851904bbae24c4609d1557dfb7e941",
       "source": "skills/sort-my-brain-dump/SKILL.md",
       "guide": "skills/sort-my-brain-dump/README.md"
     }

@@ -9,7 +9,7 @@
     {
       "name": "adhd-task-helper",
       "displayName": "ADHD Task Helper",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "ADHD-friendly support for clearer replies, starting a task, sorting a brain dump, and resuming interrupted work.",
       "author": {
         "name": "Rachael Quisel"
